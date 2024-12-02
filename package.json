@@ -52,7 +52,7 @@
     "@types/redux": "^3.6.31",
     "@types/resize-observer-browser": "^0.1.11",
     "autoprefixer": "^10.4.20",
-    "babel-preset-react-app": "^10.0.0",
+    "babel-preset-react-app": "^10.0.1",
     "cypress": "^13.16.0",
     "postcss": "^8.3.4",
     "postcss-cli": "^11.0.0",
