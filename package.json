@@ -57,7 +57,7 @@
     "postcss": "^8.3.4",
     "postcss-cli": "^11.0.0",
     "postcss-nested": "^5.0.5",
-    "prettier": "3.3.3",
+    "prettier": "3.4.1",
     "prop-types": "^15.8.1",
     "react": "17",
     "react-dom": "17",
