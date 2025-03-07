@@ -62,7 +62,7 @@
     "react": "19",
     "react-dom": "19",
     "release-it": "^18.1.2",
-    "rollup": "^4.34.8",
+    "rollup": "^4.34.9",
     "rollup-plugin-bundle-size": "^1.0.3",
     "rollup-plugin-livereload": "^2.0.5",
     "rollup-plugin-postcss": "^4.0.2",
